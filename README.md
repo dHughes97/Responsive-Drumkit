@@ -1,0 +1,1 @@
+This project was learning about javascript and how we can tie that into HMTL and css to make a cohesive website with all three. It implemented animations, click and keydown event listeners. 
